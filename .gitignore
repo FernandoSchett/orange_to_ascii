@@ -1,0 +1,35 @@
+# Ignore compiled Python bytecode files
+*.pyc
+
+# Ignore system-specific files and directories
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files and directories
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore generated documentation
+/docs/
+
+# Ignore virtual environment
+/venv/
+
+# Ignore secret files
+secret.txt
+credentials.json
+
+# Ignore compiled executables
+*.exe
+
+# Ignore backup files
+*.bak
+
+# Ignore cache directories
+__pycache__/
